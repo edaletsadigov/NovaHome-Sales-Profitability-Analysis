@@ -12,7 +12,7 @@ Built as part of the **DataCube Power BI Capstone Project**.
 |---|---|---|
 | `NovaHome_Dataset.xlsx` | Raw source data — 7 sheets (Sales 2024, Sales 2025, Customers, Products, Regions, Targets, Dictionary) | [README_dataset](Dataset/Readme.md) |
 | `Ədalət_Sadıqov_NovaHome.pbix` | Power BI data model, DAX measures, and 3-page interactive report | [README_for_power_bi](Power_Bi/Readme.md) |
-| `Ədalət_Sadıqov_NovaHome.pptx` | 17-slide executive presentation of findings and recommendations | [README_pptx.md](README_pptx.md) |
+| `Ədalət_Sadıqov_NovaHome.pptx` | 17-slide executive presentation of findings and recommendations | [README_Presentation](Presentation/Readme.md) |
 
 ## Tech stack
 
