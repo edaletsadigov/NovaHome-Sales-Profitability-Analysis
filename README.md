@@ -60,7 +60,7 @@ Built as part of the **DataCube Power BI Capstone Project**.
 
 ```
 NovaHome-Sales-Profitability-Analysis/
-├── README.md                          ← this file
+├── README.md                        
 ├── data/
 │   ├── NovaHome_Dataset.xlsx
 │   └── README_dataset.md
